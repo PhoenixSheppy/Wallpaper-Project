@@ -4,7 +4,7 @@ This project is based off of a piece of art I commissioned from an artist named 
 
 ![Image of original commission](https://raw.githubusercontent.com/PhoenixSheppy/Wallpaper-Project/main/img/orig.png)
 
-This project accomplishes that goal by animating squares mid-layer between a background and foreground element like shown below: 
+This project accomplishes that goal by animating squares behind a top layer, and behind that top layer rendering a gradiant to act as a background as shown below:
 
 ![GIF of project demo](https://raw.githubusercontent.com/PhoenixSheppy/Wallpaper-Project/main/img/wallpaperv1%20demo.gif)
 
